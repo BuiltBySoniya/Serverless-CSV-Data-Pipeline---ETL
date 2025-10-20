@@ -1,0 +1,12 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "https://csv-final-data-soniya.s3.us-east-1.amazonaws.com/run-1760317108652-part-r-00000.csv"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "textqualifier": "\""
+  }
+}
